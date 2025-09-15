@@ -3,3 +3,5 @@ filters:
     values: [active, inactive]
   - name: priority
     values: [high, medium, low]
+  - name: logging
+    values: [true,false]
